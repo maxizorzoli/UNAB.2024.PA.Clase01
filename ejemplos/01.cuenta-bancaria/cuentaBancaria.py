@@ -1,7 +1,7 @@
 class CuentaBancaria():
     ''' Clase que nos permite la gestión de una Cuenta Bancaria genérica!
     '''
-    
+    #ejercicio con TODO    
     def __init__(self, saldo_inicial, nombre, apellido, moneda = '$'):
         # TODO: Ver la forma de soportar cajas de ahorro y/o cuentas corrientes
         self.movimientos = []
